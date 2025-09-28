@@ -24,11 +24,14 @@ Alur Kerja Program:
    - Skor Anda: (nilai)
    - Grade Anda: (grade)
 
-Cara Menjalankan Program:
+Cara Menjalankan Program (VS Code):
 ---
 1. Pastikan Dart sudah terinstal di komputer (cek dengan perintah dart --version di terminal).
 2. Simpan kode program ke dalam file dengan ekstensi .dart, misalnya penilaian.dart.
-3. Buka terminal atau command prompt, lalu arahkan ke folder tempat file disimpan.
-4. Jalankan program dengan perintah: dart penilaian.dart
-5. Masukkan skor yang diminta, lalu program akan menampilkan hasil grade sesuai skor.
-
+3. Buka VS Code lalu buka folder tempat file Dart kamu disimpan.
+4. Buka file program (penilaian.dart) di editor VS Code.
+5. Jalankan program:
+   - Tekan Ctrl + ` untuk membuka terminal bawaan VS Code.
+   - Tekan Ctrl + Alt + N untuk langsung running.
+6. Masukkan input saat program meminta skor.
+7. Lihat output yang akan menampilkan skor dan grade sesuai logika program.
